@@ -14,12 +14,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ankit Faujdar) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=its-ankitxcore&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=its-ankitxcore&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=its-ankitxcore&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=its-ankitxcore&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=its-ankitxcore&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=its-ankitxcore&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://komarev.com/ghpvc/?username=its-ankitxcore&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
